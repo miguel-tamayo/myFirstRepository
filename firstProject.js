@@ -1,1 +1,1 @@
-console. log("My favorite color is Orange.");
+console.log("Miguel's favorite color is orange");
