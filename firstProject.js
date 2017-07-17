@@ -1,1 +1,1 @@
-console.log("Miguel's favorite color is orange");
+console.log("2 34 56");
