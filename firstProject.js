@@ -1,0 +1,1 @@
+console. log("My favorite color is Orange.");
